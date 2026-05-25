@@ -2,4 +2,4 @@
 <p align="center">
   <a href="https://github.com/NinaArevalo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am;Andreina+Arevalo&font=Pacifico&center=true&width=650&height=120&color=C000FF&vCenter=true&size=45"></a>
 </p>
-<img align="right" alt="Andreina coding" width="250" src="./andreina-avatar.png">
+<img align="right" alt="Andreina coding" width="250" src="./andreina-avatar2.png">
